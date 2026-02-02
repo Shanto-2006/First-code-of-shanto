@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+printf("The hash character is: %c",'U');
+return 0;
+}
