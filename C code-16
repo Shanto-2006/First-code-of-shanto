@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int x=20;
+    int v=55;
+    
+    printf("%d+%d=%d,\n",x,v,x+v);
+    
+    printf("value = %d",x*v-20);
+}
