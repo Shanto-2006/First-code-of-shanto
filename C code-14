@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+    int x=20;
+    int v=55;
+    
+    printf("%d+%d=%d,\nvalue = %d [20 x 55 - 20= ans]",x,v,x+v,x*v-20);
+}
