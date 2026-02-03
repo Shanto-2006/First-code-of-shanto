@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+    int A=30;
+    int B=55;
+
+    int z;
+    
+    z=A*B-20;
+    
+    printf("Sum = %d",z);
+    
+}
