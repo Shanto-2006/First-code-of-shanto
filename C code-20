@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+    int A=30;
+    int B=2;
+
+    printf("Sum = (%d / %d)= %d",A,B,A/B);
+    
+}
