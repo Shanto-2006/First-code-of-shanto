@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+    int A=53;
+    int B=45;
+
+    printf("Sum = (%d - %d)= %d",A,B,A-B);
+    
+}
