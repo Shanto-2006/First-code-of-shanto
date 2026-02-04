@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+    int x;
+    int y;
+    
+    scanf("%d",&x);
+    printf("1st number = %d\n",x);
+    
+    scanf("%d",&y);
+    printf("2ed number = %d",y);
+}
