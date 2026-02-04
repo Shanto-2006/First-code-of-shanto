@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    float x=10.265;
+    
+    
+    printf("the float value = %.2f",x);
+    
+    
+}
