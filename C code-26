@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    char x='$';
+    
+    
+    printf("the float value = %c",x);
+    
+    
+}
