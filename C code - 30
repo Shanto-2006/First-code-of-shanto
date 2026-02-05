@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+
+int a;
+
+scanf("%d",&a);
+
+printf ("Display Int number: %d",a);
+
+return 0;
+}
