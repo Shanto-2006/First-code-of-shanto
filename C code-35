@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    int a=10;
+    printf("a = 10\n");
+    int b;
+    scanf("%d",&b);
+    printf("The sum of a and b: %d (a = 10 and b is user defined)",a+b);
+
+    return 0;
+}
