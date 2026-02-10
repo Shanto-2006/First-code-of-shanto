@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+    int a,b,c;
+    float average;
+    scanf("%d%d%d",&a,&b,&c);
+    printf("the value of a = %d\nthe value of b = %d\nthe value of c = %d\nAverage value of a,b and c = %.3f",a,b,c,average=(a+b+c)/3);
+   
+    return 0;
+}
