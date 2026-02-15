@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+    int a,b,area;
+    scanf("%d%d",&a,&b);
+    area=a*b;
+    printf("Lenth:%d\nWidth%d\nThe area=%d",a,b,area);
+}
