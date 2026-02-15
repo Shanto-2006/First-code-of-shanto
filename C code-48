@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int studentID;
+    int studentAge;
+    int studentFee;
+    float studentGread;
+    scanf("%d%d%d%f",&studentID,&studentAge,&studentFee,&studentGread);
+    printf("Student ID:%d\nStudent Age:%d\nStudent Fee:%d\nStudent Gread:%.2f",studentID,studentAge,studentFee,studentGread);
+}
