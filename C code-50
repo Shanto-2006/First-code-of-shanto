@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    int a;
+    scanf("%d",&a);// a is the celsius value //
+    printf("the celsius value =  %d\n",a);
+    printf("celsius to fahrenheit = %.3f ",(a*1.8)+32);
+}
