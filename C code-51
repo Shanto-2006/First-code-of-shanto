@@ -1,0 +1,12 @@
+
+#include <stdio.h>
+
+int main()
+{
+    int a,x;
+    printf("The enter value of a and x\n");
+    scanf("%d%d",&a,&x);
+    printf("The value of a and x is :%d and %d",a,x);
+
+    return 0;
+}
