@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+    float a;
+    printf("Input value a = ");
+    scanf("%f",&a);
+    printf("\nvalue of a = %f",a);
+    printf("sq of a=%f",a*a);
+}
