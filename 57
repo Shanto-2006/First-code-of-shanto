@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+    int a;
+    scanf("%d",&a);
+    if(a==5)
+    printf("hortal hobe kinto choto");
+    else if(a==0)
+    printf("hortal hobe kinto mazari");
+    else if(a==7)
+    printf("hortal hobe kinto boro");
+    else
+    printf("hortal hobe na");
+    
+}
