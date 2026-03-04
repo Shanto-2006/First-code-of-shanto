@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+    int a,b;
+    printf("Input value a and b = ");
+    scanf("%d%d",&a,&b);
+    printf("\nvalue of a and b  = %d and %d ",a,b);
+    printf("sum of a and b =%d",a+b);
+}
