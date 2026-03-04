@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+    int a;
+    printf("int =");
+    scanf("%d",&a);
+    printf("\nvalue of int  = %d",a);
+}
