@@ -1,0 +1,8 @@
+
+#include<stdio.h>
+int main(){
+    float a;
+    printf("floatt =");
+    scanf("%f",&a);
+    printf("\nvalue of float  = %f",a);
+}
