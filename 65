@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+    printf("This is the comment tab");
+    //printf("if we use the // at our line first the line is use for comment comand");
+}
