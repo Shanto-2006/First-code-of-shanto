@@ -203,20 +203,8 @@ t[j] = x;
 printf("\nRank Team             P W D L GF GA GD Pts\n");
 
 for (i = 0; i < 4; i++){
- printf("%-4d %-16s %d %d %d %d %d %d %d %d\n",
-
-i + 1,
-
-t[i].teamName,
-t[i].played,
-t[i].wins,
-t[i].draws,
-t[i].losses,
-  t[i].goalsScored,
- t[i].goalsConceded,
- t[i].goalDifference,
-t[i].points);
-    }
+ printf("%-4d %-16s %d %d %d %d %d %d %d %d\n",i + 1, t[i].teamName, t[i].played, t[i].wins, t[i].draws, t[i].losses, t[i].goalsScored, t[i].goalsConceded, t[i].goalDifference,t[i].points);
+}
 }
 
 int main(){
